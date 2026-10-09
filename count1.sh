@@ -1,1 +1,1 @@
-echo 1; ./count2.sh
+echo ONE; ./count2.sh
